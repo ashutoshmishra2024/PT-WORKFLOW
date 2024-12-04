@@ -1,5 +1,4 @@
 name: Run psuedocode on ubuntu
-
 on:
   workflow_dispatch:
     inputs:
